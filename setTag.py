@@ -1,5 +1,3 @@
-import re
-
 def getline(line):
     index = line.find('/')#该行是否为有效数据
     chars = []
